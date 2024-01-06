@@ -22,3 +22,8 @@ Evaluation Criteria:
 * Successful deployment of the package on PyPI.
 * Adherence to best practices in coding, packaging, and testing.
 * Creativity and efficiency in addressing different file formats and data preprocessing challenges.
+
+
+to install the package 
+
+pip install AbdoDataPrepKit
